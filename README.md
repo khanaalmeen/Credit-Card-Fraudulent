@@ -1,5 +1,7 @@
 # Credit Card Fraudlent 
 ## Anamoly Detection
+![image](https://github.com/khanaalmeen/Credit-Card-Fraudulent/assets/106391555/5b64ad20-9f6a-4605-b3ea-ae21424c4a27)
+
 
 ## Objective
  Build a model to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
