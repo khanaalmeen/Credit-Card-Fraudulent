@@ -4,7 +4,7 @@
 
 
 ## Objective
- Build a model to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+The  project focuses on building a robust model that can accurately identify fraudulent transactions, safeguarding customers from unauthorized charges and ensuring they are not held responsible for fraudulent activities. By leveraging advanced algorithms and data analysis techniques, the project aims to provide a secure and trustworthy payment environment, enhancing customer trust and protecting their financial well-being
 
 
 
